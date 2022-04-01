@@ -1,5 +1,5 @@
 # XmlRDR(XML File Reader)
-> Is a short aplikation to reading XML files with Job's ad
+> Is a short aplication to reading XML files with Job's ad
 
 ## Technologies Used
 .Net Framework 5.0
